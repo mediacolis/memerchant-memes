@@ -35,3 +35,7 @@ MIT License
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE
 ```
+
+## memes/art-*.webp and memes/photo-*.webp
+
+These images are in the **public domain** or dedicated to it under **CC0 1.0 Universal** (https://creativecommons.org/publicdomain/zero/1.0/), as stated on each file's source page (listed in README.md). They were cropped square and scaled to 360 px WebP. No rights are claimed in these versions.

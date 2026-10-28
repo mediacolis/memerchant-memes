@@ -10,10 +10,11 @@ Releases are tagged (`v1`, `v2`, …) and never changed after tagging, so live s
 
 ## License and credits
 
-Two sets of files, each under its own license (full texts in [LICENSE.md](LICENSE.md)):
+Several sets of files, each under its own license (full texts in [LICENSE.md](LICENSE.md)):
 
 - `memes/noto-*.json` (198 files): **Noto Emoji Animation** by Google, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: https://googlefonts.github.io/noto-emoji-animation/. Changes: numbers rounded to 2 decimal places. No other changes.
 - `memes/fluent-*.webp` (91 files): **Fluent Emoji Animated** by Microsoft, MIT License. Source: https://github.com/microsoft/fluentui-emoji-animated. Changes: converted from 256 px APNG to 160 px animated WebP at 10 frames per second. No other changes.
+- `memes/art-*.webp` (31 files): paintings and prints in the **public domain**; `memes/photo-*.webp` (28 files): animal photos in the **public domain** or under **CC0 1.0**. Sources are listed per file below. Changes: cropped square and scaled to 360 px WebP.
 
 ### Noto Emoji Animation
 
@@ -313,3 +314,72 @@ Two sets of files, each under its own license (full texts in [LICENSE.md](LICENS
 | `memes/fluent-bomb.webp` | 3D bomb |
 | `memes/fluent-rainbow.webp` | 3D rainbow |
 | `memes/fluent-sloth.webp` | 3D sloth |
+
+### Classic art (public domain)
+
+| File | Work | Artist, date | License | Source |
+|---|---|---|---|---|
+| `memes/art-ducreux-mocker.webp` | Self-Portrait as a Mocker | Joseph Ducreux, c. 1793 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Ducreux_-_Self-portrait_of_the_artist_as_a_mocker.jpg) |
+| `memes/art-desperate-man.webp` | The Desperate Man | Gustave Courbet, 1843–45 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9_(1843).jpg) |
+| `memes/art-boy-bitten-by-lizard.webp` | Boy Bitten by a Lizard | Caravaggio, c. 1594–96 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caravaggio_-_Boy_Bitten_by_a_Lizard.jpg) |
+| `memes/art-the-scream.webp` | The Scream | Edvard Munch, 1893 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg) |
+| `memes/art-wanderer-fog.webp` | Wanderer above the Sea of Fog | Caspar David Friedrich, c. 1817 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg) |
+| `memes/art-wain-cat.webp` | Picture of a Cat | Louis Wain, c. 1900 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Picture_of_a_Cat_by_Louis_Wain_(1860%E2%80%931939)_from_The_Sketch_July_18,_1900.png) |
+| `memes/art-boilly-grimaces.webp` | Les Grimaces | Louis-Léopold Boilly, 1823 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Louis_L%C3%A9opold_Boilly_-_Les_grimaces.jpg) |
+| `memes/art-mona-lisa.webp` | Mona Lisa | Leonardo da Vinci, c. 1503–19 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mona_Lisa_headcrop.jpg) |
+| `memes/art-pearl-earring.webp` | Girl with a Pearl Earring | Johannes Vermeer, c. 1665 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg) |
+| `memes/art-arnolfini.webp` | The Arnolfini Portrait | Jan van Eyck, 1434 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Van_Eyck_-_Arnolfini_Portrait.jpg) |
+| `memes/art-laughing-audience.webp` | The Laughing Audience | William Hogarth, 1733 | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:William_Hogarth_-_The_Laughing_Audience_-_B1981.25.1455_-_Yale_Center_for_British_Art.jpg) |
+| `memes/art-rembrandt-laughing.webp` | Self-Portrait as a Laughing Man | Rembrandt van Rijn, 1633 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rembrandt_-_Self-portrait_or_Bust_of_a_Laughing_Man_-_1633.jpg) |
+| `memes/art-malle-babbe.webp` | Malle Babbe | Frans Hals, c. 1633 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Malle_Babbe_(Frans_Hals)-WUS03734.jpg) |
+| `memes/art-van-gogh-1887.webp` | Self-Portrait | Vincent van Gogh, 1887 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_(454045).jpg) |
+| `memes/art-goya-dog.webp` | The Dog | Francisco Goya, c. 1819–23 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Perro_semihundido.jpg) |
+| `memes/art-rembrandt-open-mouth.webp` | Self-Portrait in a Cap, Open-Mouthed | Rembrandt van Rijn, 1630 | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn,_Self-Portrait_in_a_Cap,_Open-Mouthed,_1630,_NGA_10060.jpg) |
+| `memes/art-pierrot.webp` | Pierrot | Jean-Antoine Watteau, c. 1718–19 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean-Antoine_Watteau_-_Pierrot,_dit_autrefois_Gilles.jpg) |
+| `memes/art-laughing-cavalier.webp` | The Laughing Cavalier | Frans Hals, 1624 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Frans_Hals_%E2%80%93_The_Laughing_Cavalier.jpg) |
+| `memes/art-dogs-poker.webp` | A Friend in Need | Cassius Marcellus Coolidge, 1903 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_Friend_in_Need_1903_C.M.Coolidge_(cropped).jpg) |
+| `memes/art-dignity-impudence.webp` | Dignity and Impudence | Edwin Landseer, 1839 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dignity.and.impudence.jpg) |
+| `memes/art-ronner-kittens.webp` | Kittens at Play | Henriëtte Ronner-Knip, 19th century | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henriette_Ronner-Knip_-_Kittens_at_Play.png) |
+| `memes/art-durer-hare.webp` | Young Hare | Albrecht Dürer, 1502 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg) |
+| `memes/art-washington-delaware.webp` | Washington Crossing the Delaware | Emanuel Leutze, 1851 | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg) |
+| `memes/art-napoleon-alps.webp` | Napoleon Crossing the Alps | Jacques-Louis David, 1801 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Napoleon_at_the_Great_St._Bernard_-_Jacques-Louis_David_-_Google_Cultural_Institute.jpg) |
+| `memes/art-death-of-socrates.webp` | The Death of Socrates | Jacques-Louis David, 1787 | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Death_of_Socrates_MET_DP-13139-001.jpg) |
+| `memes/art-great-wave.webp` | The Great Wave off Kanagawa | Katsushika Hokusai, c. 1831 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg) |
+| `memes/art-sleeping-spinner.webp` | The Sleeping Spinner | Gustave Courbet, 1853 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_The_Sleeping_Spinner_-_WGA05461.jpg) |
+| `memes/art-ducreux-yawning.webp` | Self-Portrait, Yawning | Joseph Ducreux, c. 1783 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Ducreux_(French)_-_Self-Portrait,_Yawning_-_Google_Art_Project.jpg) |
+| `memes/art-puppy-broken-doll.webp` | Bull Terrier Puppy with a Broken Doll | Frances C. Fairman, 19th century | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bull_terrier_puppy_with_broken_Chinese_doll_by_Frances_C._Fairman.jpg) |
+| `memes/art-favorite-cat.webp` | The Favorite Cat | Nathaniel Currier, 1838–48 | CC0 | [The Met](https://www.metmuseum.org/art/collection/search/357184) |
+| `memes/art-dog-studio-chair.webp` | Dog Posing for Portrait in Studio Chair | Rufus Anson, c. 1855 | CC0 | [The Met](https://www.metmuseum.org/art/collection/search/285425) |
+
+### Animal photos (public domain or CC0)
+
+| File | Photographer | License | Source |
+|---|---|---|---|
+| `memes/photo-cat-flopped.webp` | Lemon tart | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_yawning_-_DSC00577.jpg) |
+| `memes/photo-cat-tongue.webp` | JenellaRoseDraws | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_Sticking_its_tounge_out%3F.jpg) |
+| `memes/photo-cat-in-box.webp` | Catboy69 | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_in_a_box_3.jpg) |
+| `memes/photo-cat-judging.webp` | Aleenamustlive | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grey_cat_looking_up_at_camera.jpg) |
+| `memes/photo-dog-head-tilt.webp` | Reid Campbell | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_dog_head_tilt.jpg) |
+| `memes/photo-pomeranian-smile.webp` | Jonjoy Pascua | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Angel-pomeranian.jpg) |
+| `memes/photo-dog-smile.webp` | Kanimozhi Vennila | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dog_smiling_image.jpg) |
+| `memes/photo-dog-peeking.webp` | Doge bruno | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_dog_Bruno_smiling_at_you.jpg) |
+| `memes/photo-spaniel-smile.webp` | Benocalla2 | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smiling_dog_at_Pype_Hayes_park.jpg) |
+| `memes/photo-shiba-smile.webp` | Roberto Vasarri | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shiba_inu_taiki.jpg) |
+| `memes/photo-corgi-standing.webp` | Huoadg5888 | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fawn_and_white_Welsh_Corgi_puppy_standing_on_rear_legs_and_sticking_out_the_tongue.jpg) |
+| `memes/photo-raccoon.webp` | Bill Buchanan, U.S. Fish and Wildlife Service | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raccoon_face_close_up_procyon_lotor.jpg) |
+| `memes/photo-capybara.webp` | Wilfredor | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis,_Rio_de_Janeiro,_Brazil_09.jpg) |
+| `memes/photo-sloth.webp` | Stefan Laube (Tauchgurke) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bradypus.jpg) |
+| `memes/photo-owl-stare.webp` | Joshua Tree National Park | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Great_horned_owl!_(54608768597).jpg) |
+| `memes/photo-kitten-hand.webp` | Leo Rodman | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_kitten_in_the_hand_(Flickr).jpg) |
+| `memes/photo-kitten-stare.webp` | Mrmiscellanious | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kitten-stare.jpg) |
+| `memes/photo-cat-potatoes.webp` | Judgefloro | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:9568Black_and_white_kitten_portraits_in_the_Philippines_03.jpg) |
+| `memes/photo-frenchies-swimming.webp` | W.carter | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Two_French_bulldogs_swimming_in_life_jackets.jpg) |
+| `memes/photo-frenchie-sleeping.webp` | MiniLop1234 | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:French_Bulldog_Sleeping.jpg) |
+| `memes/photo-red-eyed-frog.webp` | Careyjamesbalboa (Carey James Balboa) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_eyed_tree_frog_edit2.jpg) |
+| `memes/photo-green-frog.webp` | LiquidGhoul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Australia_green_tree_frog_(Litoria_caerulea)_crop.jpg) |
+| `memes/photo-pig.webp` | Nguyễn Thượng Sách | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_Pig_in_Outdoor_Environment.jpg) |
+| `memes/photo-squirrel-snack.webp` | TylerMascola | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Squirrel_eating_nut_in_grass.png) |
+| `memes/photo-fox-stare.webp` | USFWS Alaska | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_fox_(8385104980).jpg) |
+| `memes/photo-otter.webp` | David Menke, U.S. Fish and Wildlife Service | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Enhydra_lutris_sea_otter_face_photo.jpg) |
+| `memes/photo-penguins.webp` | Sander Spek | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sander-pinguins.jpg) |
+| `memes/photo-cat-staring.webp` | Zhmila | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_is_staring_at_you.jpg) |
